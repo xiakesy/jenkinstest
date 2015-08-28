@@ -1,2 +1,2 @@
 FROM ubuntu
-CMD echo hello
+CMD "/bin/bash"
